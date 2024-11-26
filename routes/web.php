@@ -99,6 +99,7 @@ use Illuminate\Support\Facades\Route;
         });
 // End of the main Authenticated Route Group
 });
+
 // One more task is in routes/api.php
 
 require __DIR__.'/auth.php';
